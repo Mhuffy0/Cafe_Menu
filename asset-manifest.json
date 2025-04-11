@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cafe_Menu/static/css/main.ab3670ec.css",
+    "main.js": "/Cafe_Menu/static/js/main.ee5c2d52.js",
+    "index.html": "/Cafe_Menu/index.html",
+    "main.ab3670ec.css.map": "/Cafe_Menu/static/css/main.ab3670ec.css.map",
+    "main.ee5c2d52.js.map": "/Cafe_Menu/static/js/main.ee5c2d52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab3670ec.css",
+    "static/js/main.ee5c2d52.js"
+  ]
+}

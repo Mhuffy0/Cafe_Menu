@@ -1,0 +1,24 @@
+{
+  "Coffee": [
+    {
+      "name": "Latte",
+      "price": 4.5,
+      "description": "Steamed milk with espresso",
+      "image": "/images/Cocoa.jpg"
+    },
+    {
+      "name": "Matcha",
+      "price": 45,
+      "description": "ABC",
+      "image": "/images/matcha milk tea aesthetic.jpg"
+    }
+  ],
+  "Green tea": [],
+  "Thai tea": [],
+  "Milk": [],
+  "Cocoa": [],
+  "Frappe": [],
+  "Fruit Tea": [],
+  "Toast": [],
+  "Meal": []
+}
